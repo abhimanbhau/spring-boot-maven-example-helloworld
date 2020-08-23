@@ -1,6 +1,6 @@
 [
   {
-    "name": "sample-app",
+    "name": "springboot",
     "imageUri": "tomcat:jdk8-adoptopenjdk-openj9"
   }
 ]
