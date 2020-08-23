@@ -1,6 +1,6 @@
 [
   {
-    "name": "tomcat",
+    "name": "tomcat-service-fargate",
     "imageUri": "tomcat:jdk8-adoptopenjdk-openj9"
   }
 ]
