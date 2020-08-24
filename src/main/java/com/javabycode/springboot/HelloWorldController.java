@@ -7,11 +7,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
 public class HelloWorldController {
-    public class HelloWorldController {
-
-@RequestMapping("/")
-@ResponseBody
-public String sayHello() {
-return "Hello World Developer!!!";
-}
+    @RequestMapping("/")
+    public String hello() {
+        return "hello";
+    }
 }
